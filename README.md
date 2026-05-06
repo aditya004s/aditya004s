@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Coding Profiles
-- LeetCode: https://leetcode.com/u/aditya007_
+- LeetCode: https://leetcode.com/u/aditya007_/
 - CodeChef: https://www.codechef.com/users/aditya_ks004
 
 ---
